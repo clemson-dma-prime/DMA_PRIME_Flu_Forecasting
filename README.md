@@ -28,7 +28,7 @@ The pipeline displays basic inspection results for each data source and then pas
 
 **Figure 4.** From model training to prediction plot generation:
 
-![Figure 4](images/figure4_prediction_plot.png)
+![Figure 4](images/figure4_plot_generation.png)
 
 ---
 
@@ -38,7 +38,7 @@ Once the process is complete, it will initiate the file detector again and start
 
 **Figure 5.** File detector is re-initiated with latest update times changed:
 
-![Figure 5](images/figure5_detector_loop.png)
+![Figure 5](images/figure5_return_file_check.png)
 
 ---
 
